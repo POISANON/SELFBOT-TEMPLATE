@@ -1,0 +1,2 @@
+# SELFBOT-TEMPLATE
+Only
